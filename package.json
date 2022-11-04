@@ -1,0 +1,20 @@
+{
+  "name": "linkedlist",
+  "version": "1.0.0",
+  "description": "",
+  "main": "linkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidynoob/linkedList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tidynoob/linkedList/issues"
+  },
+  "homepage": "https://github.com/tidynoob/linkedList#readme",
+  "type": "module"
+}
